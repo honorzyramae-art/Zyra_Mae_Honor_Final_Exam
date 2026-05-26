@@ -1,0 +1,14 @@
+{
+  "name": "student-info-management-system",
+  "version": "1.0.0",
+  "description": "Student Information Management System for Final Exam",
+  "main": "crud_final_exam.js",
+  "scripts": {
+    "start": "node crud_final_exam.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "pg": "^8.11.5"
+  }
+}
